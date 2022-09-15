@@ -17,4 +17,3 @@ title.pack()
 typer.pack()
 click.pack()
 window.mainloop()
-
